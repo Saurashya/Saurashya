@@ -1,61 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=180&section=header&text=Hi%20There!%20I'm%20Saurashya%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+Saurashya Singh Rayamajhi
 
-<a href="https://saurashyasinghrayamajhi.com.np"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Open+to+Full+Stack+%2F+Frontend+Roles" alt="Typing SVG" /></a>
+Full-Stack Developer · React / Next.js · Node.js / PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saurashyasinghrayamajhi.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurashya-rayamajhi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurashya1@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Saurashya&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+I build reliable, accessible web products from idea to production.
+
+
+
+
+
+
 
 </div>
 
-### 👩‍💻 About Me
+About me
 
-- 🎓 BSc. Computer Science & IT graduate (Himalaya College of Engineering, 2025)
-- 💼 **Full Stack Developer with 2+ years of experience** shipping scalable web apps and enterprise systems end-to-end
-- 🏢 Currently a **Contract Full Stack Developer at Himalaya College of Engineering**, where I independently built the official college website **[hcoe.edu.np](https://hcoe.edu.np)** — from architecture to deployment — plus a custom admin panel for managing academics, notices, events, and admissions
-- 🎫 Previously at **Panacea Solution Pvt. Ltd.**, where I built an enterprise **Event Ticket Management System** and an **EPOS (restaurant point-of-sale) system**, and mentored interns on full-stack dev, Git workflows, and code quality
-- 🌱 Exploring AI-powered dev workflows and modern design systems, one repo at a time
-- 🗣️ IELTS Band **8** — comfortable working and collaborating in international, English-first environments
-- 🤝 Open to **Frontend / Full Stack Developer** roles, freelance work, and collaborations
+I'm a full-stack developer based in Nepal with 2+ years of professional experience building scalable web applications and enterprise systems. I work across the product lifecycle—from requirements and system architecture to frontend, backend, database design, deployment, and maintenance.
 
-### 🛠️ Tech Stack
+I care about clean architecture, performance, accessibility, and thoughtful user experience.
+
+I have shipped products with React, Next.js, TypeScript, Node.js, Express, PostgreSQL, and Prisma.
+
+I enjoy taking ownership, mentoring developers, and turning complex workflows into intuitive products.
+
+I'm open to frontend and full-stack opportunities where I can build products with meaningful real-world impact.
+
+Selected work
+
+Project
+
+What I built
+
+Stack
+
+Himalaya College of Engineering
+
+Independently delivered the college's official website and custom administration system end to end. Staff can manage programs, admissions, notices, events, publications, and other institutional content.
+
+Full-stack web development, CMS, SEO
+
+TicketSathi
+
+A production-ready event ticketing platform with role-based workflows, payments, analytics, caching, health checks, structured logging, and containerized deployment.
+
+Next.js, TypeScript, Express, PostgreSQL, Prisma, Redis, Docker
+
+POS
+
+A responsive restaurant point-of-sale system covering table management, orders, sales operations, role-based administration, and dark mode.
+
+React, Express, MongoDB, Redux Toolkit, TanStack Query
+
+Fit-Sync
+
+A personalized exercise recommendation dashboard using collaborative filtering and model-based techniques, with model evaluation and interactive visualizations.
+
+Python, Streamlit, pandas, scikit-learn
+
+Experience
+
+Contract Full-Stack Developer · Himalaya College of Engineering<br>
+May 2026 – August 2026
+
+Owned the official college platform from requirements and architecture through development, database integration, testing, deployment, and maintenance.
+
+Built a responsive, SEO-focused public experience and a custom administrative workflow for institutional content.
+
+Full-Stack Developer · Panacea Solution Pvt. Ltd.<br>
+April 2024 – March 2026
+
+Developed enterprise event-ticketing features across frontend, backend APIs, authentication, database, and ticketing workflows.
+
+Designed an internal EPOS system for restaurant order processing and sales operations.
+
+Mentored interns in full-stack development, debugging, Git workflows, and code quality.
+
+Technology toolkit
+
+Frontend
+
+
+
+
+
+
+
+
+Backend & data
+
+
+
+
+
+
+
+
+
+Tools & delivery
+
+
+
+
+
+GitHub at a glance
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css,nodejs,express,prisma,postgres,mongodb,git,github,vercel,figma,postman&perline=9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saurashya&theme=transparent" alt="Saurashya's GitHub activity summary" />
+<br>
+<img src="https://streak-stats.demolab.com?user=Saurashya&theme=transparent&hide_border=true" alt="Saurashya's GitHub contribution streak" />
 
 </div>
 
-**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Redux · Zustand
-**Backend:** Node.js · Express.js · Prisma ORM · PostgreSQL · MERN Stack
-**Tooling:** Git & GitHub · Vercel · Postman · Figma
+Education & certification
 
-### 🚀 Featured Projects
+BSc in Computer Science and Information Technology, Himalaya College of Engineering · 2025
 
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| 🏠 [**Estate-Project**](https://github.com/Saurashya/Estate-Project) | Real estate listing platform | MERN · TailwindCSS | — |
-| 🎟️ [**etms**](https://github.com/Saurashya/etms) | Event Ticket Management System — ticketing workflows, auth & admin | TypeScript · PostgreSQL · Prisma | [🔗 Demo](https://etms-six.vercel.app) |
-| 🧾 [**POS**](https://github.com/Saurashya/POS) | Electronic Point of Sale system for restaurant order & sales management | JavaScript · Node.js · Express | — |
-| 📋 [**project-management-task**](https://github.com/Saurashya/project-management-task) | Kanban-style project & task management tool | JavaScript · React | [🔗 Demo](https://project-management-tool-saurashya.vercel.app) |
-| 🧘 [**soulcare**](https://github.com/Saurashya/soulcare) | Mental wellness / self-care web app | TypeScript · Next.js | [🔗 Demo](https://soulcare-iota.vercel.app) |
-| 🏘️ [**Ward-App**](https://github.com/Saurashya/Ward-App) | Local ward/municipality service management app | JavaScript · React | [🔗 Demo](https://ward-app.vercel.app) |
-| 🏋️ [**FitSync**](https://github.com/Saurashya/FitSync) | ML-based fitness exercise recommendation engine | Python | — |
+IELTS Academic, overall band 8 · 2026
 
-🔭 Actively building: [**TicketSathi**](https://github.com/Saurashya/TicketSathi), [**dev-prep**](https://github.com/Saurashya/dev-prep), and [**househelp**](https://github.com/Saurashya/househelp) — my current TypeScript/Next.js workbench.
+Let's build something useful
 
+I'm interested in frontend and full-stack engineering roles, product collaborations, and freelance work. If you're building something ambitious, I'd be glad to hear about it.
 
-### 📫 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/saurashyasinghrayamajhi.com.np-2E9EF7?style=flat-square&logo=vercel&logoColor=white)](https://saurashyasinghrayamajhi.com.np)
-[![LinkedIn](https://img.shields.io/badge/saurashya--rayamajhi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurashya-rayamajhi)
-[![Email](https://img.shields.io/badge/saurashya1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saurashya1@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=100&section=footer" width="100%"/>
+Portfolio · LinkedIn · Email
