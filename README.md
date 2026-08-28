@@ -37,10 +37,10 @@
 | Project | Description | Tech | Live |
 |---|---|---|---|
 | [Estate-Project](https://github.com/Saurashya/Estate-Project) | Real estate listing platform | MERN · TailwindCSS | — |
-| [etms](https://github.com/Saurashya/etms) | Event Ticket Management System — ticketing workflows, auth & admin | TypeScript · PostgreSQL · Prisma | [Demo](https://etms-six.vercel.app) |
+| [etms](https://github.com/Saurashya/etms) | Event Ticket Management System — ticketing workflows, auth & admin | TypeScript · PostgreSQL · Prisma | - |
 | [POS](https://github.com/Saurashya/POS) | Electronic Point of Sale system for restaurant order & sales management | JavaScript · Node.js · Express | — |
 | [project-management-task](https://github.com/Saurashya/project-management-task) | Kanban-style project & task management tool | JavaScript · React | [Demo](https://project-management-tool-saurashya.vercel.app) |
-| [soulcare](https://github.com/Saurashya/soulcare) | Mental wellness / self-care web app | TypeScript · Next.js | [Demo](https://soulcare-iota.vercel.app) |
+| [soulcare](https://github.com/Saurashya/soulcare) | Mental wellness / self-care web app | TypeScript · Next.js | [Demo](https://soulcare.com.np) |
 | [Ward-App](https://github.com/Saurashya/Ward-App) | Local ward/municipality service management app | JavaScript · React | [Demo](https://ward-app.vercel.app) |
 | [FitSync](https://github.com/Saurashya/FitSync) | ML-based fitness exercise recommendation engine | Python | — |
 
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurashya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurashya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Saurashya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saurashya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com/?user=Saurashya&theme=tokyonight&hide_border=true" />
 
