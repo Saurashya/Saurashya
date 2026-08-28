@@ -47,16 +47,6 @@
 
 🔭 Actively building: [**TicketSathi**](https://github.com/Saurashya/TicketSathi), [**dev-prep**](https://github.com/Saurashya/dev-prep), and [**househelp**](https://github.com/Saurashya/househelp) — my current TypeScript/Next.js workbench.
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurashya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurashya&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurashya&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ### 📫 Let's Connect
 
